@@ -1,9 +1,8 @@
 # ohw19
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 pip install pyserial
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 hello, I'am danyang685.
 =======
@@ -16,7 +15,10 @@ pip install pyserial
 >>>>>>> 43bfdef8ec6dfd4b2d8cf26a3eea204859d9be30
 =======
 pip install pyserial
+=======
+hello, I'am xkn
+Hello I'm Riccardo Yeung and my file storage is ://MingjieYang  
+Hello I'm Luo Jiaming
 
-hello, I'am xkn  
-Hello I'm Riccardo Yeung and my file storage is ://MingjieYang
->>>>>>> 8e9d5b45363ee01951b2fa80fe46b735155ebb3e
+>>>>>>> 413660379b30600d74bd398f2ff109e6e341ac8d
+
