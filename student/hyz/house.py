@@ -35,7 +35,6 @@ def house(a, b ,c , L, W, H, M):
 		for k in range(L-2):
 			mc.setBlock(a+2+i, b+H-1, c+2+k, M)
     
-
 print([a,b,c])
 house(a, b, c, 10, 10, 10, 1)
 house(a+14, b, c, 10, 10, 10, 2)
@@ -66,7 +65,3 @@ house(a+14, b+28, c+28, 10, 10, 10, 73)
 house(a+28, b+28, c+28, 10, 10, 10, 88)
             
 #origin : (189, 53, -160)
-    
-
-
-
